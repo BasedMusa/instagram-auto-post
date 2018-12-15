@@ -2,7 +2,7 @@
 This script can automatically upload images related to nature to an Instagram page
 
 
-Requirements
+## Requirements
 You need the following:
 * Instagram ID Username
 * Intsagram ID Password
